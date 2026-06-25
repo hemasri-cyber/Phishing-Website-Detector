@@ -28,3 +28,11 @@ Hema sri b
 
 ### Home Page
 ![Home Page](home_page.png)
+
+### Result Page
+![Result Page](result_page.png)
+
+
+
+
+
