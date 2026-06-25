@@ -23,3 +23,8 @@ This project detects phishing websites using Machine Learning and Flask.
 
 ## Author
 Hema sri b
+
+## Screenshots
+
+### Home Page
+![Home Page](home_page.png)
