@@ -1,6 +1,6 @@
 # Phishing Website Detector
 
-This project detects phishing websites using Machine Learning and Flask.
+This project detects phishing websites using Machine Learning and Flask. Users can enter a website URL, and the system predicts whether it is legitimate or phishing.
 
 ## Features
 - URL analysis
